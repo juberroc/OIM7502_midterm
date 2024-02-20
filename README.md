@@ -2,7 +2,13 @@
 
 ## Instructions for Installation:
 
-# Add steps for Web Driver if necessary, check con otra persona 
+## Installing a WebDriver
+A WebDriver is a tool or component of Selenium that acts as a bridge between your Selenium script and the web browser you want to utilize. WebDrivers are browser-specific, meaning you need a different WebDriver for each browser you want to automate (Chrome, Safari, Edge, etc). These WebDrivers interact with the corresponding browsers, enabling Selenium scripts to execute commands and perform actions.
+
+  1. Identify the Browser Version: Determine the version of the web browser you want to automate (e.g., Chrome, Firefox). You can usually find the browser version in the browser's settings or about section.
+  2. Go to the official website for the WebDriver corresponding to your browser. These can typically be found by a quick google search.
+
+## Installing Selenium
 
 Assuming the user already has Python installed, the only necessary step is to run the following pip command:
   1. pip install selenium
