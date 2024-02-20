@@ -2,11 +2,12 @@
 
 ## Instructions for Installation:
 
-## Installing a WebDriver
+## Installing a WebDriver (Only necessary in specific cases)
 A WebDriver is a tool or component of Selenium that acts as a bridge between your Selenium script and the web browser you want to utilize. WebDrivers are browser-specific, meaning you need a different WebDriver for each browser you want to automate (Chrome, Safari, Edge, etc). These WebDrivers interact with the corresponding browsers, enabling Selenium scripts to execute commands and perform actions.
 
   1. Identify the Browser Version: Determine the version of the web browser you want to automate (e.g., Chrome, Firefox). You can usually find the browser version in the browser's settings or about section.
   2. Go to the official website for the WebDriver corresponding to your browser. These can typically be found by a quick google search.
+  3. Download the file onto your computer and place it in a location easy to reference.
 
 ## Installing Selenium
 
