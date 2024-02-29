@@ -18,8 +18,10 @@ Assuming the user already has Python installed, the only necessary step is to ru
 
 Afterwards, the user can import the library whenever it is needed by running the following lines of code:
 
-1. From selenium import web driver
-2. driver = webdriver.Chrome() (Users can change the browser code to whichever they typically use).
+1. from selenium import web driver
+2. from selenium.webdriver.common.keys import Keys
+3. from selenium.webdriver.common.by import By
+4. driver = webdriver.Chrome() (Users can change the browser code to whichever they typically use).
 
 In some cases, it is necessary to add the path to the web driver file inside the parenthesis for the code above to work properly.
 
