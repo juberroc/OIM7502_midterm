@@ -1,6 +1,10 @@
 # OIM7502 Midterm
 
-## Instructions for Installation:
+## Documentation:
+
+1. https://selenium-python.readthedocs.io/index.html
+
+# Instructions for Installation:
 
 ## Installing a WebDriver
 
@@ -48,7 +52,3 @@ In the context of data science, Selenium can be particularly useful for tasks su
 3. Testing Data-Driven Applications: Automating the testing of web-based data-driven applications, ensuring data integrity and consistency.
 
 4. Monitoring and Reporting: Automating the process of monitoring web data for changes and generating reports based on predefined criteria.
-
-## Documentation:
-
-1. https://selenium-python.readthedocs.io/index.html
