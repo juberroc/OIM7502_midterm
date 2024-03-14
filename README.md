@@ -31,7 +31,7 @@ In some cases, it is necessary to add the path to the web driver file inside the
 
 ## Overview of Selenium:
 
-Selenium provides a suite of tools for automating web browsers across many platforms. The core component of Selenium is the WebDriver API, which provides a platform- and language-neutral interface that allows programs and scripts to interact directly with a web browser. Selenium WebDriver supports multiple programming languages including Python, Java, C#, etc.
+Selenium provides a suite of tools for automating web browsers across many platforms. The core component of Selenium is the WebDriver, which provides a platform- and language-neutral interface that allows programs and scripts to interact directly with a web browser. Selenium WebDriver supports multiple programming languages including Python, Java, C#, etc.
 
 Some key functionalities of Selenium include:
 
